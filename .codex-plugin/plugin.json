@@ -1,0 +1,10 @@
+{
+  "name": "muse-video",
+  "version": "0.2.0",
+  "description": "RunAPI Muse Video skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+  "skills": [
+    {
+      "path": "skills/muse-video/SKILL.md"
+    }
+  ]
+}
